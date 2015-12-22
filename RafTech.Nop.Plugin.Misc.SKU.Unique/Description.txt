@@ -1,0 +1,8 @@
+﻿Group: RafTech Software
+FriendlyName: RafTech - Unique SKU
+SystemName: RafTech.Nop.Plugin.Misc.SKU.Unique
+Version: 2.0
+SupportedVersions: 3.60
+Author: rafTech team
+DisplayOrder: 1
+FileName: RafTech.Nop.Plugin.Misc.SKU.Unique.dll
